@@ -12,5 +12,5 @@ mm=[""] 此处填写密码
 selenium库 安装 命令行输入pip install selenium
 不同浏览器版本的chromedriver.exe下载地址http://npm.taobao.org/mirrors/chromedriver/
 
-此版脚本由 https://github.com/LuminolT/SHU_SelfReport 改进部分bug得到的，在此感谢这位同学
+此版脚本由 https://github.com/LuminolT/SHU_SelfReport 改进部分功能得到的，在此感谢
 
